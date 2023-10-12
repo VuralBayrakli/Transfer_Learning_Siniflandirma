@@ -12,9 +12,13 @@ Projeyi `git` ile yükleme
   git clone https://github.com/VuralBayrakli/Transfer_Learning_Siniflandirma.git
 ```
     
-## Duman içeren bir görüntünün sınıflandırılması
+## Duman içeren veri setinden örnekler
 
-![App Screenshot](https://github.com/VuralBayrakli/Transfer_Learning_Siniflandirma/blob/master/screenshots/ss1.png)
+![App Screenshot](https://github.com/VuralBayrakli/Transfer_Learning_Siniflandirma/blob/master/screenshots/ss4.png)
+
+## Duman içermeyen veri setinden örnekler
+
+![App Screenshot](https://github.com/VuralBayrakli/Transfer_Learning_Siniflandirma/blob/master/screenshots/ss5.png)
 
 ## Duman içeren bir görüntünün sınıflandırılması
 
