@@ -16,6 +16,6 @@ Projeyi `git` ile yükleme
 
 ![App Screenshot](https://github.com/VuralBayrakli/Transfer_Learning_Siniflandirma/blob/master/screenshots/ss1.png)
 
-## Duman içermeyen bir görüntünün sınıflandırılması
+## Duman içermeyen bir görüntünün sınıflandırılması(!Bu görüntü sis içermektedir.)
 
 ![App Screenshot](https://github.com/VuralBayrakli/Transfer_Learning_Siniflandirma/blob/master/screenshots/ss2.png)
