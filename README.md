@@ -1,7 +1,7 @@
 
 # Transfer Learning Yöntemiyle Yangın Dumanı Sınıflandırma
 
-Bu projede transfer learning yöntemiyle yangın dumananı sınıflandırma modeli geliştirilmiştir.  
+Bu projede transfer learning yöntemiyle yangın dumanı sınıflandırma modeli geliştirilmiştir.  
 
 
 ## Dosya Yükleme
