@@ -21,6 +21,9 @@ Projeyi `git` ile yükleme
 
 ![App Screenshot](https://github.com/VuralBayrakli/Transfer_Learning_Siniflandirma/blob/master/screenshots/ss5.png)
 
+## Duman içermeyen veri setini oluşturmak için Data Augmentation uygulanan görüntüler
+
+![App Screenshot](https://github.com/VuralBayrakli/Transfer_Learning_Siniflandirma/blob/master/screenshots/ss6.png)
 
 ## Duman içeren bir görüntünün sınıflandırılması
 
